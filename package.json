@@ -1,0 +1,45 @@
+{
+  "name": "mdl-form-example",
+  "version": "1.0.0",
+  "description": "example for mal-form",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HsuTing/mdl-form-example.git"
+  },
+  "keywords": [
+    "Example",
+    "mdl-form",
+    "Material",
+    "Design",
+    "Lite"
+  ],
+  "author": "HsuTing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HsuTing/mdl-form-example/issues"
+  },
+  "homepage": "https://github.com/HsuTing/mdl-form-example#readme",
+  "dependencies": {
+    "jquery": "^2.2.0",
+    "mdl-form": "^1.0.0",
+    "mdl-form-file": "^1.0.0",
+    "mdl-form-input": "^1.0.0",
+    "mdl-form-radio": "^1.0.0",
+    "mdl-form-textarea": "^1.0.1",
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7"
+  },
+  "devDependencies": {
+    "babel-core": "^6.4.5",
+    "babel-loader": "^6.2.1",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "css-loader": "^0.23.1",
+    "style-loader": "^0.13.0",
+    "webpack": "^1.12.12"
+  }
+}
