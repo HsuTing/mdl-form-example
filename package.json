@@ -25,11 +25,11 @@
   "homepage": "https://github.com/HsuTing/mdl-form-example#readme",
   "dependencies": {
     "jquery": "^2.2.0",
-    "mdl-form": "^1.0.0",
-    "mdl-form-file": "^1.0.0",
-    "mdl-form-input": "^1.0.0",
-    "mdl-form-radio": "^1.0.0",
-    "mdl-form-textarea": "^1.0.1",
+    "mdl-form": "^1.0.4",
+    "mdl-form-file": "^1.0.1",
+    "mdl-form-input": "^1.0.1",
+    "mdl-form-radio": "^1.0.5",
+    "mdl-form-textarea": "^1.0.4",
     "react": "^0.14.7",
     "react-dom": "^0.14.7"
   },

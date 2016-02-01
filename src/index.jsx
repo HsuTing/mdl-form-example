@@ -60,7 +60,8 @@ import FileStyle from './../node_modules/mdl-form-File/lib/style';
           {
             'style': { 'color': 'blue', 'margin': '20px' },
             'label': 'radio-2',
-            'value': '2'
+            'value': '2',
+            'isChecked': true
           }
         ],
         'change': (data) => {
